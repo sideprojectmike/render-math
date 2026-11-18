@@ -14,7 +14,7 @@ Tell Claude to:
 Install this skill for me: https://github.com/sideprojectmike/render-math
 ```
 
-### OR
+#### OR
 
 Zip this folder and upload it in Claude under **Settings → Capabilities → Skills**, or copy it to `~/.claude/skills/render-math` for Claude Code.
 
